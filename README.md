@@ -4,7 +4,7 @@ Training ML models to classify animals into one of 151 categories using the Anim
 
 ## Code
 The model is trained in Python using Jupyter Notebook and run in the Google Colab Environment.
-The dataset can be found here: https://drive.google.com/drive/folders/1_nn9bt9pn9rwWyWIG2vKf377O-C9Oa1b?usp=sharing
+The dataset can be found here: https://drive.google.com/drive/folders/1_nn9bt9pn9rwWyWIG2vKf377O-C9Oa1b?usp=sharing. Note that significant image filtering has occurred to remove 'poor' images that would negatively impact the performance of the model, e.g. unrealistic animal drawings, heavy watermarks, etc.
 
 ## Performance Measure
 Accuracy is determined by using a function that computes the accuracy over the top-k predictions for the
