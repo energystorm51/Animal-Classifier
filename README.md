@@ -14,6 +14,9 @@ Operations per Second). This is a unit of measurement used to quantify the compu
 Efficiency is calculated by dividing accuracy by the FLOPS count.
 
 ## Report Analysis
-A detailed breakdown of the model training research methodology can be found in the pdf file.
+Realistically, an animal classification program available to the general public would be more popular with a high
+accuracy. Therefore, the most optimal model is Model 8, which uses Transfer Learning to achieve this. The
+efficiency is also at an acceptable level, close to 80%. A tradeoff between accuracy and efficiency was favored,
+as efficiency may vary depending on the device being used
 
-Authored by Jingyi Qiu and Toyesha Kaushik
+**Authored by Jingyi Qiu and Toyesha Kaushik**
